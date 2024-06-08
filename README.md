@@ -1,7 +1,5 @@
 
-<h1 align="center" style="color: #9B9A78;">
-   CSS Project: Header - coworking space
-</h1>
+# <span style="color: #9B9A78;">CSS Project: Header - coworking space</span>
 
 
 ## Description
@@ -13,7 +11,7 @@ This project demonstrates how to use CSS variables (`:root`) and flexbox to crea
 
 
 ## Live Preview 
-![coworking space](img/coworking-space.png)
+![coworking space](./img/coworking-space.png)
 
 <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIEW CODE&color=%239B9A78&style=plastic&logo=github&logo-color=white"/>
